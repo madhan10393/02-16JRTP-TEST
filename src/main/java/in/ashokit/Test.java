@@ -6,6 +6,7 @@ public class Test {
 		System.out.println("Hi");
 		int a = 10;
 		System.out.println(a);
+		System.out.println("successfully initilizezed a value");
 	}
 
 }
